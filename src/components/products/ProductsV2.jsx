@@ -18,13 +18,14 @@ export default function ProductsV2() {
                     </div>
                 </div>
             </div>
+            <br />
             <div id="carousel" className="carousel slide" data-interval="false">
                 <div className="carousel-inner container">
                     <div className="carousel-item active">
                         <div className="row">
                             {PRODUCTS.map(({ icon, title, desc }, i) => (
                                 <>
-                                    {i < 3 ? <ProductCard key={i * Math.round(Math.random() * 2)} icon={icon} title={title} description={desc} /> : null}
+                                    {i < 3 ? <ProductCard key={i * Math.round(Math.random() * 100)} icon={icon} title={title} description={desc} /> : null}
                                 </>
                             ))}
                         </div>
@@ -36,6 +37,7 @@ export default function ProductsV2() {
                         </div>
                     </div>
                 </div>
+                <br />
             </div>
         </section>
     )
