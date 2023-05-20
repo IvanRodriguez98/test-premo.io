@@ -1,0 +1,88 @@
+/* Estilos personalizados */
+.btn-primary {
+    background-color: #005B94;
+    border-color: #005B94;
+}
+
+.btn-primary:hover {
+    border-color: #002F51;
+    background-color: #002F51;
+}
+
+.btn-primary:checked {
+    border-color: #002F51;
+    background-color: #002F51;
+}
+
+.btn-success {
+    border-color: #9FC733;
+    background-color: #9FC733;
+}
+
+.btn-success:hover {
+    border-color: #708F21;
+    background-color: #708F21;
+}
+
+.btn-rounded {
+    border-radius: 12px;
+}
+
+.inpuut-rounded {
+    border-radius: 6px;
+}
+
+.btn-icon {
+    width: 22px;
+    height: 22px;
+}
+
+.img-rounded {
+    border-radius: 12px;
+}
+
+.btn-floating {
+    background-color: #005B94;
+    border-color: #005B94;
+    border-radius: 34px;
+}
+
+.btn-c-size {
+    width: 160px;
+}
+
+.btn-floating:hover {
+    border-color: #002F51;
+    background-color: #002F51;
+}
+
+
+.bg {
+    height: 100%;
+    background: linear-gradient(180deg, white 60%, #0A142F 40%);
+}
+
+.highlighted-word {
+    color: #9FC733;
+}
+
+.btn-rounded-c-size {
+    width: 68.12px;
+    height: 68.12px;
+}
+
+.bg-gray {
+    background-color: #F1F1F2;
+}
+
+.text-blue {
+    color: #0088DF; 
+}
+
+.text-blue-strong {
+    color: #005B94; 
+}
+
+.text-gray {
+    color :#75778C;
+}

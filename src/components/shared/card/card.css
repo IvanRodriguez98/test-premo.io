@@ -1,0 +1,23 @@
+.icon-holder {
+    width: 52.04px;
+    height: 52.04px;
+    left: 28.38px;
+    top: 20.81px;
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: 0px 3.78449px 5.67674px -0.946124px rgba(0, 0, 0, 0.1), 0px 1.89225px 3.78449px -0.946124px rgba(0, 0, 0, 0.06);
+    border-radius: 5.67674px;
+}
+
+.card {
+    width: 297.08px;
+    height: 383.18px;
+    left: 0px;
+    top: 0px;
+}
+
+.card-title {
+    color: #002F51;
+    border-bottom: #002F51 solid 2px;
+    margin-top: 20px;
+}

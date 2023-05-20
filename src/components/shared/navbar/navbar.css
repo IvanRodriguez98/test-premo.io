@@ -1,0 +1,47 @@
+/* Clases personalizadas */
+.navbar {
+    border-bottom: #002F51 1px solid;
+}
+
+.navbar-brand {
+    width: 103px;
+    height: 36px;
+    color: #0A142F;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.navbar-brand:hover {
+    text-decoration: none;
+    color: #0A142F;
+}
+
+.navbar-nav>li {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.nav-link {
+    color: #005B94;
+}
+
+.nav-link:hover {
+    color: #002F51;
+    border-bottom: #002F51 3px solid;
+}
+
+.active {
+    color: #002F51;
+    border-bottom: #002F51 3px solid;
+}
+
+.dropdown-toggle::after{
+    display: none;
+}
+
+.dropdown-icon {
+    height: 1em;
+    padding-left: 10px;
+}

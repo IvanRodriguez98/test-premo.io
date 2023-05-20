@@ -1,0 +1,16 @@
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+
+    left: 20px;
+    top: 20px;
+    width: 103px;
+    height: 36px;
+    color: #0A142F;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 36px;
+}

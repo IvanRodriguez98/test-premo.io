@@ -1,0 +1,8 @@
+.question-container-border {
+    cursor: pointer;
+    border-bottom: solid 1px black;
+}
+
+.question-container-no-border {
+    cursor: pointer;
+}
